@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data baseCurrency="TRY">
+    <currency>
+        <code>EUR</code>
+        <rate>18.1797</rate>
+        <date>2022-10-20T10:00:00Z</date>
+    </currency> 
+    <currency>
+        <code>USD</code>
+        <rate>18.5895</rate>
+        <date>2022-10-20T10:00:00Z</date>
+    </currency>
+    <currency>
+        <code>GBP</code>
+        <rate>20.8783</rate>
+        <date>2022-10-20T10:00:00Z</date>
+    </currency>
+    <currency>
+        <code>CHF</code>
+        <rate>18.4785</rate>
+        <date>2022-10-20T10:00:00Z</date>
+    </currency>
+    <currency>
+        <code>CAD</code>
+        <rate>13.5091</rate>
+        <date>2022-10-20T10:00:00Z</date>
+    </currency>
+</data>
